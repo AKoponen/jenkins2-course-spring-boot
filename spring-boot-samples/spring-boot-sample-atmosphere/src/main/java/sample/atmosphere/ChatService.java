@@ -15,7 +15,6 @@
  */
 
 package sample.atmosphere;
-
 import java.io.IOException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.atmosphere.config.managed.Decoder;
